@@ -10,7 +10,7 @@ A simple ToDo application built with FastAPI, demonstrating CRUD operations (Cre
 - **Delete**: Remove a task from the ToDo list.
 
 ## Installation
-1.pip install fastapi
+1.pip install fastapi <br>
 2.pip install uvicorn
 
 
